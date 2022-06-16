@@ -1,0 +1,101 @@
+#spotifyLogo {
+  width: 60px;
+}
+body {
+  background-color: #004643;
+}
+p,
+a {
+  color: #abd1c6;
+}
+
+a:hover {
+  color: #f9bc60;
+}
+
+h2 {
+  color: #fffffe;
+}
+h3 {
+  color: #abd1c6;
+}
+.post-meta {
+  color: #e16162;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav {
+  padding: 5px;
+  padding-left: 50px;
+}
+
+.subheading {
+  color: #abd1c6;
+}
+
+.youtube {
+  text-align: center;
+}
+
+#u2 {
+  border-radius: 50px;
+  border: solid 5px #abd1c6;
+}
+#u2:hover {
+  border: solid 5px #ff0000;
+}
+
+#myFace {
+  width: 30vw;
+  border-radius: 50%;
+  border: 5px solid #f9bc60;
+}
+.topImage {
+  text-align: center;
+}
+
+ol li {
+  list-style: decimal;
+}
+ul li {
+  list-style: none;
+}
+.resume h1 {
+  text-align: center;
+  color: #fffffe;
+}
+.resume {
+  padding-top: 3vh;
+}
+#title {
+  color: #f9bc60;
+  font-size: x-large;
+  font-weight: bold;
+}
+li {
+  color: #abd1c6;
+}
+
+.imagesquota {
+  text-align: center;
+}
+#cycling {
+  width: 80vw;
+  padding: 4vw;
+}
+#friends {
+  width: 80vw;
+  padding: 4vw;
+}
+#friends:hover {
+  outline: solid 10px #abd1c6;
+  border-radius: 50%;
+}
+#cycling:hover {
+  outline: solid 10px #abd1c6;
+  border-radius: 50%;
+}

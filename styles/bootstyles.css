@@ -1,0 +1,40 @@
+.navigation li a {
+  display: block;
+  text-align: center;
+  padding: 14px;
+  color: #004643;
+}
+.navigation li a:hover {
+  color: #fffffe;
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #abd1c6;
+}
+
+.tableau {
+  padding: 10vw;
+}
+
+h1 {
+  color: #fffffe;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #004643;
+  color: #f9bc60;
+  text-align: center;
+  opacity: 50%;
+}
